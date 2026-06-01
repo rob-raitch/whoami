@@ -1,0 +1,37 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Home | Rob Aitchison">
+  <section class="py-20 text-center">
+    <h1 class="text-5xl font-bold mb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+      Hi, I'm Rob Aitchison
+    </h1>
+    <p class="text-xl text-slate-600 mb-8 max-w-2xl mx-auto">
+      Artist, Designer, and Software Developer. Exploring the intersection of technology, art, and design.
+    </p>
+    <div class="flex gap-4 justify-center">
+      <a href="/portfolio" class="px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
+        View Portfolio
+      </a>
+      <a href="/contact" class="px-8 py-3 border-2 border-blue-600 text-blue-600 rounded-lg hover:bg-blue-50 transition">
+        Get in Touch
+      </a>
+    </div>
+  </section>
+
+  <section class="py-12 grid md:grid-cols-3 gap-8">
+    <div class="p-6 bg-white rounded-lg border border-slate-200">
+      <h3 class="text-lg font-bold mb-3">Software</h3>
+      <p class="text-slate-600">Building web applications and open-source tools with modern technologies.</p>
+    </div>
+    <div class="p-6 bg-white rounded-lg border border-slate-200">
+      <h3 class="text-lg font-bold mb-3">Design</h3>
+      <p class="text-slate-600">Creating visual experiences that are both beautiful and functional.</p>
+    </div>
+    <div class="p-6 bg-white rounded-lg border border-slate-200">
+      <h3 class="text-lg font-bold mb-3">Art</h3>
+      <p class="text-slate-600">Exploring creative expression through digital and traditional media.</p>
+    </div>
+  </section>
+</Layout>
