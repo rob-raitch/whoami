@@ -10,7 +10,7 @@ Ideally, the creation of which starts with FOSS sovereign infrastructure.
 
 I have met people trying to achieve this as chattanooga.digital
 
-Hopefully the timing can work, please see my history at https://linkedin.com/in/raitch in the meantime.
+Hopefully the timing can work, please see my history at [My LinkedIn profile](https://www.linkedin.com/in/raitch) in the meantime.
 
 * Check the contact info for a litter of links to various places.
 
