@@ -14,11 +14,15 @@ Hopefully the timing can work, please see my history at [My LinkedIn profile](ht
 
 * Check the contact info for a litter of links to various places.
 
-Thank you for reading!
+Here is an example of creative work on the web from 2002 currently accessed via the [Wayback Machine:](https://web.archive.org/web/20021212162808/http://www.raitch.ca/old_index.html)
+
+I am in the process of re-activating it for the new live site.  As you hover over the rorshach images, a word is exposed with the theme of "what do you see?" I am eager to have this live again as the WM will not render it properly as intended.
+
+Thank you for reading! More to come...
 
 --
-
-log of activity below:
+<details>
+<summary>log of activity below:</summary>
 
 so it's May 31, 2026 and I recall I need a website to apply for an artist residency.
 
@@ -35,3 +39,9 @@ also choosing to not capitalize my comment first words here, it's a choice, what
 --
 
 on the desktop now and correcting typos and carriage returns.
+
+--
+
+went to VSCode to move forward - need to approach FOSS pragmatically to get work done.
+
+</details>
