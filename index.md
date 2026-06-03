@@ -4,4 +4,7 @@ layout: default
 
 {% capture readme %}{% include_relative README.md %}{% endcapture %}
 
-{{ readme | split: "\n" | slice: 1, 9999 | join: "\n" }}
+{% assign lines = readme | split: "\n" %}
+{% assign sliced = lines | slice: 1, 9999 %}
+
+{{ sliced | join: "\n" | markdownify }}
