@@ -21,12 +21,13 @@ I am in the process of re-activating it for the new live site.  As you hover ove
 <details>
 <summary>point of view</summary>
 
-June 3, 2026<br>
-An artist needs to have a point of view. One of my current ones is that the propagation of LLM usage can rewrite (i.e. destroy) history. Not sure how to design an experience to convey this most effectively but let's put it here for discussion.<p>
+June 3, 2026<p>
+An artist needs to have a point of view.<br>
+One of my current ones is that the <b>propagation of LLM usage can rewrite (i.e. destroy) history.</b><br> Not sure how to design an experience to convey this most effectively but let's put it here for discussion.<p>
 
 I was trying to find my college philosophy teacher using [Brave Leo](https://search.brave.com/search?q=is+brave+llm+called+Leo)<p>
 
-It led me to this response:<p>
+It led me to this response (which is badly formatted due to markdown to html render within details blocks limitations) :<p>
 
 <b>Me:</b> i appreciate the fact that history will be destroyed by LLM’s thank you!<br>
 
