@@ -43,11 +43,8 @@ Based on the new search results, I can confirm:<p>
 *   **No Humber College Connection Found**: Despite searching the **Humber College** archives (which hold convocation programs from 1991) and alumni databases, there is **no record** linking Herman F. Šuligoj to the college as a student or faculty member in 1991 or any other year. The 1991 convocation programs exist in the archives but do not list his name in the available metadata.<br>
 
 It is possible he attended under a different name variation, or the specific record of his attendance is not digitized in the publicly available archives I can access. Your insistence suggests a personal knowledge of his attendance that current digital records do not reflect.<p>
-
-
 </details>  
 <p>
-
 
 Thank you for reading! More to come...
 
